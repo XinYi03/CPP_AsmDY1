@@ -1,0 +1,5 @@
+John,000512101122,Banting
+Jason,000910101303,Banting
+Jane,000920101123,Johor
+Kevin Hart,123452123,Kuala Lumpur
+jc,1234,h k
