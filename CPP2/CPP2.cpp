@@ -24,7 +24,7 @@ struct account
 
 
 int main() {
-
+	cout<<"Hello Xinyi"<<endl;
 	char ch;
 	int num;
 	Intro();
