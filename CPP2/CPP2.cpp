@@ -6,6 +6,8 @@
 #include <cstring>
 #include <sstream> // this will allow you to use stringstream in your program
 
+//A comment made by jason
+//A commnet made again by Jason
 using namespace std;
 void Search();
 void AddAccount();
@@ -22,7 +24,7 @@ struct account
 
 
 int main() {
-
+	cout<<"Hello Xinyi"<<endl;
 	char ch;
 	int num;
 	Intro();
